@@ -25,6 +25,9 @@ Achieved significant performance improvements by fine-tuning the learning proces
 - Ensured real-time compatibility and sensor data alignment for stable navigation.
 
 ### Real Implementation
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/bcfebf78-f74f-4291-86d3-baca61e09ee8">
+</div>
 
 ## 🎓 Thesis Details
 - This repository contains the implementation and experimental results of my Thesis. The project focuses on autonomous navigation for the **TurtleBot4** platform using Deep Reinforcement Learning (DRL) agents.
