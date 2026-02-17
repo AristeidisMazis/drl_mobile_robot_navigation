@@ -25,7 +25,8 @@ Achieved significant performance improvements by fine-tuning the learning proces
 - Ensured real-time compatibility and sensor data alignment for stable navigation.
 
 ### Real Implementation
-<video src="media/real_robot.mp4" width="100%" controls autoplay loop muted>
+<video src="https://github.com/AristeidisMazis/drl_mobile_robot_navigation/blob/main/media/real_robot.mp4" width="100%" controls>
+ Your browser does not support the video tag.
 </video>
 
 ## 🎓 Thesis Details
